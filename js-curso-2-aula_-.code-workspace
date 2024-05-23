@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../js-curso-2-aula1/js-curso-2-aula1/js-curso-2-aula_-"
+		},
+		{
+			"path": "../../js-curso-2-desafio_1/js-curso-2-desafio_1"
+		},
+		{
+			"path": "../../../OneDrive/Área de Trabalho/sabor_express"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-curso-2-aula_-"
+	}
+}
