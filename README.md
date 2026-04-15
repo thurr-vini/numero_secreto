@@ -1,4 +1,4 @@
-# 🎮 Jogo do Número Secreto com Reconhecimento de Voz
+# 🎮 Jogo do Número Secreto
 
 Este projeto é uma aplicação web interativa que utiliza reconhecimento de voz para permitir que o usuário tente adivinhar um número secreto gerado aleatoriamente. O projeto foca em acessibilidade, manipulação dinâmica do DOM e lógica de programação avançada.
 
